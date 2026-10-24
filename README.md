@@ -8,12 +8,12 @@ This is a summery side dish for Chinese and Japanese cooking. It's easy to make,
   <tr>
     <td>1-2 cucumbers</td>
     <td>cut</td>
-    <td rowspan="9">fold in</td>
+    <td rowspan="8">fold in</td>
     <td rowspan="9">sprinkle on top</td>
   </tr>
   <tr>
     <td>3-4 dried chilis</td>
-    <td rowspan="8">mix</td>
+    <td rowspan="7">mix</td>
   </tr>
   <tr>
     <td>1/2 tsp salt</td>
@@ -35,6 +35,8 @@ This is a summery side dish for Chinese and Japanese cooking. It's easy to make,
   </tr>
   <tr>
     <td>Sesame seeds</td>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
